@@ -1,0 +1,1591 @@
+INFO 2022-10-10 06:56:25,285 django.server.log_message:187- "POST /api/login HTTP/1.1" 200 147
+INFO 2022-10-10 06:58:47,273 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py changed, reloading.
+INFO 2022-10-10 06:58:48,024 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 06:58:50,630 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py changed, reloading.
+INFO 2022-10-10 06:58:51,176 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 06:58:52,656 django.server.log_message:187- "POST /api/login HTTP/1.1" 200 147
+INFO 2022-10-10 06:58:53,819 django.server.log_message:187- "POST /api/login HTTP/1.1" 200 147
+INFO 2022-10-10 06:58:54,815 django.server.log_message:187- "POST /api/login HTTP/1.1" 200 147
+INFO 2022-10-10 06:58:55,746 django.server.log_message:187- "POST /api/login HTTP/1.1" 200 147
+INFO 2022-10-10 06:59:19,957 django.server.log_message:187- "POST /api/login HTTP/1.1" 200 147
+INFO 2022-10-10 17:56:47,945 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 17:56:51,836 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 2
+INFO 2022-10-10 17:56:54,258 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 2
+INFO 2022-10-10 18:07:23,339 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:07:24,168 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:08:54,858 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:08:55,683 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:09:23,104 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:09:23,872 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:12:39,379 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:12:40,328 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:12:56,419 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:12:56,856 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:13:50,082 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/migrations/0001_initial.py changed, reloading.
+INFO 2022-10-10 18:13:50,538 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:18:07,938 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:18:08,804 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:23:04,615 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:23:08,892 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 254
+INFO 2022-10-10 18:25:29,437 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py changed, reloading.
+INFO 2022-10-10 18:25:30,480 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:25:31,134 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 254
+INFO 2022-10-10 18:25:32,470 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 254
+INFO 2022-10-10 18:28:30,365 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/urls.py changed, reloading.
+INFO 2022-10-10 18:28:31,193 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:28:41,024 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 285
+INFO 2022-10-10 18:29:07,090 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:29:07,871 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:29:10,135 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 18:29:43,681 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:29:44,522 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:29:45,188 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 18:29:59,537 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:29:59,980 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:37:37,398 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:37:38,047 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:37:51,460 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:37:51,797 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:37:57,024 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:37:57,551 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:38:00,270 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:38:00,652 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:38:19,122 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:38:19,522 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:38:26,176 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:38:26,715 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:38:33,421 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 18:38:33,831 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:39:29,077 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:39:30,005 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:39:41,925 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:39:42,407 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:39:57,111 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:39:57,563 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:40:21,679 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:40:22,291 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:40:38,113 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:40:38,630 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:41:33,678 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 18:41:34,587 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 18:41:53,153 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 18:42:27,389 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 947
+INFO 2022-10-10 18:43:30,037 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 18:44:20,318 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 947
+INFO 2022-10-10 18:50:39,959 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 591
+INFO 2022-10-10 18:52:56,594 django.server.handle_error:80- - Broken pipe from ('127.0.0.1', 50613)
+INFO 2022-10-10 18:52:57,462 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 947
+INFO 2022-10-10 18:52:59,075 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 947
+INFO 2022-10-10 18:53:01,559 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 591
+INFO 2022-10-10 18:53:10,530 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 947
+INFO 2022-10-10 18:53:16,466 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 591
+INFO 2022-10-10 18:54:25,392 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 591
+INFO 2022-10-10 18:56:20,480 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 591
+INFO 2022-10-10 18:59:04,095 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 591
+INFO 2022-10-10 18:59:06,273 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 591
+INFO 2022-10-10 18:59:11,855 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 19:00:29,204 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 19:00:30,250 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 19:00:31,181 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 19:00:31,992 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 19:00:32,356 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 19:00:36,798 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 951
+INFO 2022-10-10 19:02:37,541 django.server.log_message:187- "GET / HTTP/1.1" 200 754
+INFO 2022-10-10 19:14:52,111 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 19:15:40,627 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:15:42,576 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 951
+INFO 2022-10-10 19:15:46,275 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:15:47,160 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:15:54,735 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:15:54,931 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:16:00,572 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:16:08,763 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:16:10,042 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:16:10,242 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:16:10,432 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:16:20,302 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:16:32,939 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:16:33,169 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:17:42,109 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:17:42,823 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:20:15,566 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:20:22,380 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:20:22,580 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:23:07,744 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:23:17,128 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:23:18,239 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:23:18,375 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:23:54,312 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:23:55,808 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:25:51,100 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:25:55,725 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:28:10,430 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:28:10,832 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:28:11,087 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:28:17,231 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:28:17,724 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:28:17,910 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:28:28,616 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:36:52,185 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:37:17,925 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:38:21,652 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:38:40,280 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:38:40,832 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:38:53,461 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:39:24,208 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:44:48,026 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:45:29,893 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:47:23,187 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:47:57,268 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:48:26,328 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:49:00,312 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:50:07,408 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:50:07,541 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:50:53,751 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:51:11,334 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:51:31,586 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:51:46,711 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:51:47,907 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:52:29,533 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:53:07,838 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:54:09,476 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:55:04,928 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:55:08,190 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:55:08,550 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:56:21,013 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 19:56:22,340 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:01:23,834 django.server.handle_error:80- - Broken pipe from ('127.0.0.1', 51699)
+INFO 2022-10-10 20:01:23,917 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:01:24,479 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:01:29,465 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:01:29,690 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:01:37,200 django.server.handle_error:80- - Broken pipe from ('127.0.0.1', 51703)
+INFO 2022-10-10 20:01:37,305 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:02:57,432 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:03:39,250 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:03:55,071 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:04:03,315 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:04:46,517 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:05:20,742 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:05:33,841 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:08:50,679 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:08:52,695 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:09:14,637 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:10:05,692 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 20:12:38,833 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 661
+INFO 2022-10-10 20:12:42,192 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:12:42,352 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:12:49,962 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 951
+INFO 2022-10-10 20:12:51,208 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 951
+INFO 2022-10-10 20:12:51,495 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 951
+INFO 2022-10-10 20:12:52,206 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:12:53,176 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 951
+INFO 2022-10-10 20:13:07,494 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 951
+INFO 2022-10-10 20:13:12,839 django.server.log_message:187- "GET /api/kinopark/film/2 HTTP/1.1" 200 354
+INFO 2022-10-10 20:13:14,524 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 951
+INFO 2022-10-10 20:13:15,345 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 593
+INFO 2022-10-10 20:15:29,715 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 20:15:30,640 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:27:17,672 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 20:27:18,819 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:29:37,391 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 20:29:38,551 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:33:32,288 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 20:33:33,357 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:42:21,003 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 20:42:21,886 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:43:09,127 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 20:43:09,592 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:46:07,206 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/migrations/0001_initial.py changed, reloading.
+INFO 2022-10-10 20:46:07,715 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:50:24,467 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 20:50:25,390 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:51:44,705 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 20:51:45,494 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:56:40,895 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:56:46,605 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 20:57:01,232 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 20:57:01,799 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 20:57:02,235 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 20:57:03,759 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 20:57:04,374 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 20:57:04,962 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 20:57:05,983 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 21:01:32,795 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 21:01:33,640 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:01:34,975 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 21:01:35,782 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 21:01:36,399 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 21:01:36,877 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 21:01:37,639 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 21:05:24,353 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py changed, reloading.
+INFO 2022-10-10 21:05:25,209 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:05:29,545 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:05:31,863 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:05:32,528 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:05:32,958 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:06:15,113 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:10:03,597 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 21:10:04,611 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:10:05,397 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:13:49,025 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 21:13:49,901 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:13:50,913 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:14:16,294 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 21:14:16,907 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:14:18,242 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:14:19,699 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:14:46,525 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 21:14:47,278 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:15:20,996 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py changed, reloading.
+INFO 2022-10-10 21:15:21,600 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:15:22,031 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:15:23,011 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:15:23,623 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:15:24,522 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:16:32,448 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 21:16:33,233 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:16:34,462 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 282
+INFO 2022-10-10 21:16:35,396 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 282
+INFO 2022-10-10 21:16:36,021 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 282
+INFO 2022-10-10 21:16:36,628 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 282
+INFO 2022-10-10 21:16:37,243 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 282
+INFO 2022-10-10 21:17:00,742 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 21:17:01,349 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:17:02,337 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:17:02,975 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:17:03,594 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:17:04,056 django.server.log_message:187- "GET /api/kinopark/seansy/kinozal/1 HTTP/1.1" 200 741
+INFO 2022-10-10 21:17:23,703 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/urls.py changed, reloading.
+INFO 2022-10-10 21:17:24,237 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+WARNING 2022-10-10 21:17:26,882 django.request.log_response:241- Not Found: /api/kinopark/kinozal/1
+WARNING 2022-10-10 21:17:26,883 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 404 4291
+WARNING 2022-10-10 21:17:27,803 django.request.log_response:241- Not Found: /api/kinopark/kinozal/1
+WARNING 2022-10-10 21:17:27,803 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 404 4291
+WARNING 2022-10-10 21:17:28,427 django.request.log_response:241- Not Found: /api/kinopark/kinozal/1
+WARNING 2022-10-10 21:17:28,427 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 404 4291
+WARNING 2022-10-10 21:17:29,079 django.request.log_response:241- Not Found: /api/kinopark/kinozal/1
+WARNING 2022-10-10 21:17:29,079 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 404 4291
+WARNING 2022-10-10 21:17:29,689 django.request.log_response:241- Not Found: /api/kinopark/kinozal/1
+WARNING 2022-10-10 21:17:29,689 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 404 4291
+WARNING 2022-10-10 21:17:30,263 django.request.log_response:241- Not Found: /api/kinopark/kinozal/1
+WARNING 2022-10-10 21:17:30,264 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 404 4291
+WARNING 2022-10-10 21:17:30,549 django.request.log_response:241- Not Found: /api/kinopark/kinozal/1
+WARNING 2022-10-10 21:17:30,549 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 404 4291
+INFO 2022-10-10 21:17:45,489 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/urls.py changed, reloading.
+INFO 2022-10-10 21:17:45,964 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:17:46,656 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 996
+INFO 2022-10-10 21:17:47,890 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 996
+INFO 2022-10-10 21:17:48,682 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 996
+INFO 2022-10-10 21:17:49,533 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 996
+INFO 2022-10-10 21:18:51,655 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 21:18:52,449 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:18:53,283 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 706
+INFO 2022-10-10 21:18:54,252 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 706
+INFO 2022-10-10 21:18:54,958 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 706
+INFO 2022-10-10 21:18:55,621 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 706
+INFO 2022-10-10 21:18:56,257 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 706
+INFO 2022-10-10 21:19:18,929 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 21:19:19,481 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+ERROR 2022-10-10 21:19:20,275 django.request.log_response:241- Internal Server Error: /api/kinopark/kinozal/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 69, in kinozal_by_id
+    return JsonResponse(kinozal_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1052, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1148, in get_field_names
+    assert field_name in fields, (
+AssertionError: The field 'kinozals' was declared on serializer KinozalSerializer, but has not been included in the 'fields' option.
+ERROR 2022-10-10 21:19:20,287 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 500 125742
+ERROR 2022-10-10 21:19:21,148 django.request.log_response:241- Internal Server Error: /api/kinopark/kinozal/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 69, in kinozal_by_id
+    return JsonResponse(kinozal_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1052, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1148, in get_field_names
+    assert field_name in fields, (
+AssertionError: The field 'kinozals' was declared on serializer KinozalSerializer, but has not been included in the 'fields' option.
+ERROR 2022-10-10 21:19:21,149 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 500 125742
+INFO 2022-10-10 21:19:28,256 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 21:19:28,775 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+ERROR 2022-10-10 21:19:29,618 django.request.log_response:241- Internal Server Error: /api/kinopark/kinozal/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Kinozal' object has no attribute 'kinozal_details'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 69, in kinozal_by_id
+    return JsonResponse(kinozal_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `kinozal_details` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Kinozal` instance.
+Original exception text was: 'Kinozal' object has no attribute 'kinozal_details'.
+ERROR 2022-10-10 21:19:29,638 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 500 117762
+ERROR 2022-10-10 21:19:30,175 django.request.log_response:241- Internal Server Error: /api/kinopark/kinozal/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Kinozal' object has no attribute 'kinozal_details'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 69, in kinozal_by_id
+    return JsonResponse(kinozal_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `kinozal_details` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Kinozal` instance.
+Original exception text was: 'Kinozal' object has no attribute 'kinozal_details'.
+ERROR 2022-10-10 21:19:30,176 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 500 117762
+ERROR 2022-10-10 21:19:30,911 django.request.log_response:241- Internal Server Error: /api/kinopark/kinozal/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Kinozal' object has no attribute 'kinozal_details'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 69, in kinozal_by_id
+    return JsonResponse(kinozal_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `kinozal_details` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Kinozal` instance.
+Original exception text was: 'Kinozal' object has no attribute 'kinozal_details'.
+ERROR 2022-10-10 21:19:30,911 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 500 117762
+INFO 2022-10-10 21:19:40,647 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 21:19:41,125 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:19:41,428 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 21:19:42,335 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 21:19:54,476 django.server.log_message:187- "GET /api/kinopark/kinozal/2 HTTP/1.1" 200 53
+INFO 2022-10-10 21:19:57,730 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 21:35:00,212 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 21:36:27,606 django.server.log_message:187- "GET /api/kinopark/kinozal/2 HTTP/1.1" 200 53
+INFO 2022-10-10 21:36:30,157 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+WARNING 2022-10-10 21:37:33,362 django.request.log_response:241- Not Found: /api/kinopark/kinozal
+WARNING 2022-10-10 21:37:33,363 django.server.log_message:187- "GET /api/kinopark/kinozal HTTP/1.1" 404 4286
+INFO 2022-10-10 21:37:36,619 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 21:39:48,995 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 21:39:49,821 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:40:05,065 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 1041
+INFO 2022-10-10 21:41:21,765 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 21:41:30,980 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 21:41:31,687 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 21:41:35,802 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 1041
+INFO 2022-10-10 21:41:38,489 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:41:43,115 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+WARNING 2022-10-10 21:42:54,257 django.request.log_response:241- Not Found: /api/order/1
+WARNING 2022-10-10 21:42:54,259 django.server.log_message:187- "GET /api/order/1 HTTP/1.1" 404 35
+INFO 2022-10-10 21:43:33,812 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:44:43,889 django.server.handle_error:80- - Broken pipe from ('127.0.0.1', 52732)
+INFO 2022-10-10 21:44:44,256 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 1041
+INFO 2022-10-10 21:44:45,810 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:45:03,472 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:47:35,732 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:48:15,008 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:48:17,614 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:48:17,982 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:51:54,016 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:57:20,360 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:57:30,145 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 21:58:02,302 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:00:14,451 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:00:45,560 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:00:50,147 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:01:18,786 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+WARNING 2022-10-10 22:01:45,376 django.request.log_response:241- Not Found: /api/kinopark/seans/1
+WARNING 2022-10-10 22:01:45,376 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 404 4286
+INFO 2022-10-10 22:01:50,403 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 22:01:52,774 django.server.log_message:187- "GET /api/kinopark/seansy/1 HTTP/1.1" 200 741
+INFO 2022-10-10 22:03:02,934 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:04:29,673 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:05:22,920 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:05:42,555 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:06:31,007 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:06:37,916 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:06:50,952 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:06:57,572 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:08:34,353 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:08:51,315 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:09:42,436 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:09:49,462 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:16:24,010 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 22:21:09,922 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:21:20,186 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:21:20,189 django.server.handle_error:80- - Broken pipe from ('127.0.0.1', 53286)
+INFO 2022-10-10 22:21:20,400 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 1041
+INFO 2022-10-10 22:21:21,023 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 1041
+INFO 2022-10-10 22:21:23,992 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 22:21:55,152 django.server.log_message:187- "GET /api/kinopark/seansy/1 HTTP/1.1" 200 741
+INFO 2022-10-10 22:21:57,590 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 22:22:25,995 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 22:23:37,491 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 713
+INFO 2022-10-10 22:23:40,562 django.server.log_message:187- "GET /api/kinopark/kinozal/2 HTTP/1.1" 200 587
+INFO 2022-10-10 22:23:52,537 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+INFO 2022-10-10 22:25:26,085 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 22:25:29,451 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 741
+WARNING 2022-10-10 22:26:01,913 django.request.log_response:241- Not Found: /api/kinopark/movies
+WARNING 2022-10-10 22:26:01,913 django.server.log_message:187- "GET /api/kinopark/movies HTTP/1.1" 404 4283
+INFO 2022-10-10 22:26:05,891 django.server.log_message:187- "GET /api/kinopark/films HTTP/1.1" 200 1041
+INFO 2022-10-10 22:26:19,168 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:26:21,314 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:27:00,422 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:30:15,223 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py changed, reloading.
+INFO 2022-10-10 22:30:15,781 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+ERROR 2022-10-10 22:30:25,933 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'seat_quantity'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `seat_quantity` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'seat_quantity'.
+ERROR 2022-10-10 22:30:25,946 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 117019
+ERROR 2022-10-10 22:30:42,085 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'seat_quantity'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `seat_quantity` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'seat_quantity'.
+ERROR 2022-10-10 22:30:42,085 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 117019
+ERROR 2022-10-10 22:30:42,914 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'seat_quantity'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `seat_quantity` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'seat_quantity'.
+ERROR 2022-10-10 22:30:42,914 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 117019
+ERROR 2022-10-10 22:30:43,515 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'seat_quantity'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `seat_quantity` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'seat_quantity'.
+ERROR 2022-10-10 22:30:43,516 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 117019
+ERROR 2022-10-10 22:30:44,105 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'seat_quantity'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `seat_quantity` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'seat_quantity'.
+ERROR 2022-10-10 22:30:44,106 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 117019
+ERROR 2022-10-10 22:30:44,727 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'seat_quantity'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `seat_quantity` on serializer `KinozalSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'seat_quantity'.
+ERROR 2022-10-10 22:30:44,727 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 117019
+INFO 2022-10-10 22:32:48,122 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py changed, reloading.
+INFO 2022-10-10 22:32:48,845 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 22:32:49,219 django.server.log_message:187- "GET /api/kinopark/film/1 HTTP/1.1" 200 884
+INFO 2022-10-10 22:32:52,907 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:33:17,266 django.server.log_message:187- "GET /api/kinopark/seans/2 HTTP/1.1" 200 245
+INFO 2022-10-10 22:33:19,254 django.server.log_message:187- "GET /api/kinopark/seans/3 HTTP/1.1" 200 245
+ERROR 2022-10-10 22:33:20,706 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/4
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 74, in seans_by_id
+    seans = Seans.objects.get(id=id)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/db/models/query.py", line 650, in get
+    raise self.model.DoesNotExist(
+apps.kinopark.models.Seans.DoesNotExist: Seans matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 76, in seans_by_id
+    return JsonResponse({'message: Seans does not exist'}, status=status.HTTP_404_NOT_FOUND)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/http/response.py", line 684, in __init__
+    raise TypeError(
+TypeError: In order to allow non-dict objects to be serialized set the safe parameter to False.
+ERROR 2022-10-10 22:33:20,720 django.server.log_message:187- "GET /api/kinopark/seans/4 HTTP/1.1" 500 105515
+INFO 2022-10-10 22:33:22,741 django.server.log_message:187- "GET /api/kinopark/seans/3 HTTP/1.1" 200 245
+INFO 2022-10-10 22:33:54,372 django.server.log_message:187- "GET /api/kinopark/seans/4 HTTP/1.1" 200 248
+INFO 2022-10-10 22:35:47,993 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 22:35:48,856 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 22:35:49,293 django.server.log_message:187- "GET /api/kinopark/seans/4 HTTP/1.1" 200 248
+INFO 2022-10-10 22:35:50,242 django.server.log_message:187- "GET /api/kinopark/seans/4 HTTP/1.1" 200 248
+INFO 2022-10-10 22:35:50,818 django.server.log_message:187- "GET /api/kinopark/seans/4 HTTP/1.1" 200 248
+INFO 2022-10-10 22:35:51,672 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:35:52,449 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:35:53,041 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:35:54,216 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:36:22,550 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:36:22,628 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 22:36:23,098 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 22:36:23,935 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:36:24,686 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:36:25,289 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:36:25,743 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:37:55,938 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 22:37:56,380 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 22:37:57,469 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:37:58,373 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:37:59,022 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:37:59,343 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:38:41,747 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 22:39:56,228 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 22:39:56,938 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 22:39:57,797 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 22:39:58,591 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 22:39:59,238 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 22:40:03,946 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:40:04,874 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:40:05,875 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:40:14,732 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 22:40:25,179 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 991
+INFO 2022-10-10 23:02:17,321 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 991
+INFO 2022-10-10 23:02:22,126 django.server.log_message:187- "GET /api/kinopark/seansy/1 HTTP/1.1" 200 991
+INFO 2022-10-10 23:02:29,056 django.server.log_message:187- "GET /api/kinopark/seansy/2 HTTP/1.1" 200 991
+INFO 2022-10-10 23:02:32,740 django.server.log_message:187- "GET /api/kinopark/seansy/3 HTTP/1.1" 200 991
+INFO 2022-10-10 23:02:34,442 django.server.log_message:187- "GET /api/kinopark/seansy/4 HTTP/1.1" 200 991
+INFO 2022-10-10 23:02:36,026 django.server.log_message:187- "GET /api/kinopark/seansy/5 HTTP/1.1" 200 991
+INFO 2022-10-10 23:02:37,520 django.server.log_message:187- "GET /api/kinopark/seansy/6 HTTP/1.1" 200 991
+ERROR 2022-10-10 23:02:42,242 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/6
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 74, in seans_by_id
+    seans = Seans.objects.get(id=id)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/db/models/query.py", line 650, in get
+    raise self.model.DoesNotExist(
+apps.kinopark.models.Seans.DoesNotExist: Seans matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 76, in seans_by_id
+    return JsonResponse({'message: Seans does not exist'}, status=status.HTTP_404_NOT_FOUND)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/http/response.py", line 684, in __init__
+    raise TypeError(
+TypeError: In order to allow non-dict objects to be serialized set the safe parameter to False.
+ERROR 2022-10-10 23:02:42,256 django.server.log_message:187- "GET /api/kinopark/seans/6 HTTP/1.1" 500 105548
+INFO 2022-10-10 23:02:44,602 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 23:02:51,751 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 200 991
+INFO 2022-10-10 23:03:04,200 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:04:19,803 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:04:20,853 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:05:34,047 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 23:05:34,925 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 23:05:35,556 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:05:36,186 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:05:36,778 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:05:37,173 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+ERROR 2022-10-10 23:05:39,244 django.request.log_response:241- Internal Server Error: /api/kinopark/seansy
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'kinozal_details'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 57, in seans_list
+    return JsonResponse(seans_serializer.data, safe=False)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `kinozal_details` on serializer `SeansSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'kinozal_details'.
+ERROR 2022-10-10 23:05:39,258 django.server.log_message:187- "GET /api/kinopark/seansy HTTP/1.1" 500 132530
+ERROR 2022-10-10 23:05:40,739 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'kinozal_details'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `kinozal_details` on serializer `SeansSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'kinozal_details'.
+ERROR 2022-10-10 23:05:40,740 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 121449
+ERROR 2022-10-10 23:05:41,652 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'kinozal_details'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `kinozal_details` on serializer `SeansSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'kinozal_details'.
+ERROR 2022-10-10 23:05:41,653 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 121449
+ERROR 2022-10-10 23:05:42,303 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Seans' object has no attribute 'kinozal_details'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `kinozal_details` on serializer `SeansSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Seans` instance.
+Original exception text was: 'Seans' object has no attribute 'kinozal_details'.
+ERROR 2022-10-10 23:05:42,304 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 121449
+INFO 2022-10-10 23:05:51,117 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 23:05:51,843 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 23:05:52,569 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 23:05:53,724 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 23:07:00,808 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 23:07:01,286 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+ERROR 2022-10-10 23:07:03,049 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:07:03,062 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+ERROR 2022-10-10 23:07:04,076 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:07:04,077 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+ERROR 2022-10-10 23:07:04,710 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:07:04,711 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+ERROR 2022-10-10 23:07:05,307 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:07:05,307 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+ERROR 2022-10-10 23:07:05,881 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:07:05,882 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+ERROR 2022-10-10 23:07:06,397 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:07:06,398 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+ERROR 2022-10-10 23:07:06,825 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:07:06,825 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+INFO 2022-10-10 23:07:10,003 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+ERROR 2022-10-10 23:07:12,385 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:07:12,385 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+INFO 2022-10-10 23:09:10,564 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 23:09:11,060 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 23:09:17,477 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:09:18,258 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:09:19,378 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:09:29,199 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/models.py changed, reloading.
+INFO 2022-10-10 23:09:29,651 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 23:09:29,992 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:09:30,663 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:09:31,175 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:09:31,631 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+ERROR 2022-10-10 23:09:51,042 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:09:51,053 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+ERROR 2022-10-10 23:09:51,736 django.request.log_response:241- Internal Server Error: /api/kinopark/seans/1
+Traceback (most recent call last):
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/daniyal/PycharmProjects/cinema/apps/kinopark/views.py", line 80, in seans_by_id
+    return JsonResponse(seans_serializer.data)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/daniyal/PycharmProjects/cinema/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Seans`.
+ERROR 2022-10-10 23:09:51,736 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 500 130355
+INFO 2022-10-10 23:10:05,453 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 23:10:05,893 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
+INFO 2022-10-10 23:10:06,641 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 23:10:07,406 django.server.log_message:187- "GET /api/kinopark/seans/1 HTTP/1.1" 200 245
+INFO 2022-10-10 23:10:40,566 django.server.log_message:187- "GET /api/kinopark/kinozal/1 HTTP/1.1" 200 1003
+INFO 2022-10-10 23:14:11,199 django.utils.autoreload.trigger_reload:266- /Users/daniyal/PycharmProjects/cinema/apps/kinopark/serializers.py changed, reloading.
+INFO 2022-10-10 23:14:11,853 django.utils.autoreload.run_with_reloader:677- Watching for file changes with StatReloader
