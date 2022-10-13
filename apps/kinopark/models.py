@@ -16,6 +16,30 @@ class Movie(models.Model):
         return self.seans_set.all()
 
 
+class Ticket(models.Model):
+    seans = models.ForeignKey('Seans', on_delete=models.CASCADE)
+    movie = models.ForeignKey('Movie', on_delete=models.CASCADE)
+
+    @property
+    def ticket_order(self):
+        return self.order_set.all()
+
+
+class Order(models.Model):
+    total_price = models.BigIntegerField(blank=False)
+    time = models.DateTimeField(auto_now=True)
+    ticket = models.ForeignKey('Ticket', on_delete=models.PROTECT)
+    user = models.ForeignKey('User', on_delete=models.PROTECT)
+
+    @property
+    def ticket_id(self):
+        return self.ticket_id
+
+    @property
+    def user_id(self):
+        return self.user_id
+
+
 class User(AbstractUser):
     first_name = models.CharField(max_length=80, blank=False)
     last_name = models.CharField(max_length=80, blank=False)
@@ -36,7 +60,6 @@ class Seans(models.Model):
     movie = models.ForeignKey(Movie, on_delete=models.CASCADE)
 
 
-
 class Kinozal(models.Model):
     seat_quantity = models.IntegerField()
 
@@ -49,13 +72,6 @@ class KinozalDetails(models.Model):
     seat_numeration = models.IntegerField()
     available = models.BooleanField()
     kinozal = models.ForeignKey('Kinozal', on_delete=models.CASCADE)
-
-
-class Order(models.Model):
-    price = models.BigIntegerField(blank=False)
-    time = models.DateTimeField(auto_now=True)
-    seans = models.ForeignKey('Seans', on_delete=models.PROTECT)
-    user = models.ForeignKey('User', on_delete=models.PROTECT)
 
 
 class ContactForm(forms.Form):

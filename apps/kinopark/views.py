@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from rest_framework import status
 from apps.kinopark.models import *
 from django.http import JsonResponse
@@ -20,7 +20,6 @@ from django.shortcuts import render, redirect
 from django.template.loader import render_to_string
 from django.utils import timezone
 from .models import ContactForm
-
 
 logger = logging.getLogger(__name__)
 
@@ -49,6 +48,7 @@ def movies_list(request):
         counter = Movie.objects.all().delete()
         return JsonResponse({'message': 'deleted'.format(counter[0])})
 
+
 @api_view(['GET'])
 def seans_list(request):
     if request.method == 'GET':
@@ -68,6 +68,7 @@ def kinozal_by_id(request, id):
         kinozal_serializer = KinozalSerializer(kinozal)
         return JsonResponse(kinozal_serializer.data)
 
+
 @api_view(['GET'])
 def seans_by_id(request, id):
     try:
@@ -79,6 +80,7 @@ def seans_by_id(request, id):
         seans_serializer = SeansSerializer(seans)
         return JsonResponse(seans_serializer.data)
 
+
 @api_view(['POST'])
 def create_order(request):
     token = request.COOKIES.get('jwt')
@@ -86,30 +88,28 @@ def create_order(request):
         raise AuthenticationFailed("Не авторизованый пользователь")
 
     payload = jwt.decode(token, 'secret', algorithms=['HS256'])
+    user = get_object_or_404(User, pk=payload['id'])
 
-    if request.method == 'POST':
-        user = User.objects.filter(id=payload['id'])
-        user.id = payload['id']
-        order_data = JSONParser().parse(request)
-        order_serializer = OrderSerializer(data=order_data)
+    order_data = JSONParser().parse(request)
+    order_data.update(
+        {'user': user.id}
+    )
 
-        order_data['user'] = user.id
-
-        if order_serializer.is_valid():
-            order_serializer.save()
-            return JsonResponse(order_serializer.data, status=status.HTTP_201_CREATED)
-        return JsonResponse(order_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+    order_serializer = CreateOrderSerializer(data=order_data)
+    if order_serializer.is_valid(raise_exception=True):
+        order_serializer.save()
+        return JsonResponse(order_serializer.data, status=status.HTTP_201_CREATED)
+    return JsonResponse("ERROR")
 
 
-@api_view(['GET', 'POST'])
-def order(request, pk):
-    if request.method == 'GET':
-        try:
-            order = Order.objects.get(pk=pk)
-        except Order.DoesNotExist:
-            return JsonResponse({"message": "Order does not exist"}, status=status.HTTP_404_NOT_FOUND)
-        order_serializer = OrderSerializer(order)
-        return JsonResponse(order_serializer.data)
+@api_view(['GET'])
+def order_by_id(request, id):
+    try:
+        order = Order.objects.get(id=id)
+    except Order.DoesNotExist:
+        return JsonResponse({"message": "Order does not exist"}, status=status.HTTP_404_NOT_FOUND)
+    order_serializer = OrderSerializer(order)
+    return JsonResponse(order_serializer.data)
 
 
 @api_view(['GET', 'PUT', 'DELETE'])
@@ -157,6 +157,21 @@ class RegisterView(APIView):
             return Response(serializer.data)
         else:
             raise AuthenticationFailed("Error email")
+
+
+class TicketView(APIView):
+    def get(self, request, *args, **kwargs):
+        ticket = get_object_or_404(Ticket, pk=self.kwargs.get('id'))
+        ticket_serializer = TicketSerializer(ticket)
+        return JsonResponse(ticket_serializer.data)
+
+    def post(self, request):
+        ticket_data = JSONParser().parse(request)
+        ticket_serializer = CreateTicketSerialize(data=ticket_data)
+        if ticket_serializer.is_valid(raise_exception=True):
+            ticket_serializer.save()
+            return JsonResponse(ticket_serializer.data, status=status.HTTP_201_CREATED)
+        return JsonResponse("ERROR")
 
 
 class LoginView(APIView):
@@ -231,6 +246,13 @@ class LogoutView(APIView):
         return response
 
 
+@api_view(['GET'])
+def ticket_by_id(request, pk):
+    ticket = get_object_or_404(Ticket, pk=pk)
+    ticket_serializer = TicketSerializer(ticket)
+    return Response(ticket_serializer.data)
+
+
 def contact(request):
     if request.method == 'POST':
         form = ContactForm(request.POST)
@@ -239,8 +261,6 @@ def contact(request):
             name = form.cleaned_data['name']
             email = form.cleaned_data['email']
             content = form.cleaned_data['content']
-
-
 
             html = render_to_string('emails/contactform.html', {
                 'name': name,

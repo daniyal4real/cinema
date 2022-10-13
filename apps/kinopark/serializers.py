@@ -3,9 +3,54 @@ from apps.kinopark.models import *
 
 
 class OrderSerializer(serializers.ModelSerializer):
+    id = serializers.IntegerField(required=False)
+
     class Meta:
         model = Order
         fields = "__all__"
+        depth = 1
+
+
+class CreateOrderSerializer(serializers.ModelSerializer):
+    id = serializers.IntegerField(required=False)
+
+    class Meta:
+        model = Order
+        fields = (
+            "id",
+            "total_price",
+            "time",
+            "ticket",
+            "user"
+        )
+
+
+class CreateTicketSerialize(serializers.ModelSerializer):
+    class Meta:
+        model = Ticket
+        fields = (
+            "id",
+            "movie",
+            "seans"
+        )
+class TicketSerializer(serializers.ModelSerializer):
+    ticket_order = OrderSerializer(many=True)
+
+    class Meta:
+        model = Ticket
+        fields = (
+            "id",
+            "movie",
+            "seans",
+            "ticket_order"
+        )
+
+    def create(self, validated_data):
+        ticket_order = validated_data.pop('ticket_order')
+        ticket = Ticket.objects.create(**validated_data)
+        for ticket in ticket_order:
+            Order.objects.create(**ticket, ticket_order=ticket_order)
+        return ticket
 
 
 class KinozalDetailsSerializer(serializers.ModelSerializer):
@@ -16,7 +61,6 @@ class KinozalDetailsSerializer(serializers.ModelSerializer):
 
 
 class SeansSerializer(serializers.ModelSerializer):
-
     class Meta:
         model = Seans
         fields = "__all__"
